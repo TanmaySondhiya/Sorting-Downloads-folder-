@@ -26,4 +26,9 @@ How to Run:
 3.  Run the script in your terminal or IDE:
     'python Sorting-Cluttered-Folder.py'
 4.  The Download Folder will now be sorted
+
+Author:
+
+Tanmay Sondhiya
+25BCE10238
     
