@@ -28,7 +28,6 @@ How to Run:
 4.  The Download Folder will now be sorted
 
 Author:
-
 Tanmay Sondhiya
 25BCE10238
     
