@@ -1,4 +1,4 @@
-# Sorting-Cluttered-Folder-
+# Sorting-Download-Folder-
 
 Most of our downloads folders are clunked and messy. This code sorts the Downloads folder by their file type and sorts them into their respective folders.
 This code is designed to declutter messy directories. The path can be changed in the code so that any messy folder can be organized.
@@ -25,5 +25,5 @@ How to Run:
 2.  Download 'Sorting-Cluttered-Folder.py'.
 3.  Run the script in your terminal or IDE:
     'python Sorting-Cluttered-Folder.py'
-4.  When prompted, paste the path of the folder you wish to clean:
+4.  The Download Folder will now be sorted
     
